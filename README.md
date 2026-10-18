@@ -13,8 +13,8 @@ O projeto aplica conceitos de programação orientada a objetos, organização d
 
 ## Tecnologias
 
-- Java [versão]
-- MySQL (opcional, para armazenamento dos dados)
+- Java [21]
+- MySQL (para armazenamento dos dados)
 
 ## Como executar
 
