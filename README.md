@@ -1,25 +1,28 @@
-# Validador de Formulário
+# Sistema de Doações
 
-Formulário simples com validação de campos, desenvolvido com JavaScript, HTML e CSS.
+Sistema desenvolvido em Java para [descreva o objetivo, ex.: registrar doações e controlar quem recebe].
 
 ## Funcionalidades
 
-- Validação dos campos antes do envio
-- [Campos validados, ex.: nome, e-mail e telefone]
+- [Funcionalidade principal]
+- [Funcionalidade principal]
+- [Funcionalidade principal]
 
 ## Tecnologias
 
-- JavaScript
-- HTML
-- CSS
+- Java [versão]
+- [Persistência, ex.: arquivo local ou banco de dados]
 
 ## Como executar
 
-Não precisa de instalação. Clone o repositório e abra o arquivo `index.html` no navegador.
+**Pré-requisito:** JDK [versão] instalado.
 
 ```bash
-git clone https://github.com/victorbyte-prog/validador-formulario.git
+git clone https://github.com/victorbyte-prog/sistema-doacoes-java.git
+cd sistema-doacoes-java
 ```
+
+[Comando para compilar e executar o projeto]
 
 ## Autor
 
