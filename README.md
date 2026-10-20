@@ -18,7 +18,7 @@ O projeto aplica conceitos de programação orientada a objetos, organização d
 
 ## Como executar
 
-**Pré-requisitos:** JDK [versão] instalado e, se for usar banco de dados, MySQL em execução.
+**Pré-requisitos:** JDK [27] instalado e, se for usar banco de dados, MySQL em execução.
 
 1. Clone o repositório e entre na pasta do menu desktop:
 
