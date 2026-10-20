@@ -27,7 +27,7 @@ git clone https://github.com/victorbyte-prog/sistema-doacoes-java.git
 cd sistema-doacoes-java/menu-desktop
 ```
 
-2. Compile e execute a classe principal: [comando e nome da classe principal]
+2. Compile e execute a classe principal: [cd sistema-doacoes-java/menu-desktop]
 
 ## Autor
 
